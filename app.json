@@ -5,7 +5,7 @@
   
   
   "logo": "https://i.ibb.co/n6rw805/694affc7ca5a5fb0cb58c2b4533f962d.jpg",
-  "repository": "https://github.com/caseyweb/NHEZHO-MD",
+  "repository": "https://github.com/popkidxtech/POPKID-BMX",
   "succes_url": "/",
 
   "stack": "container",
@@ -25,7 +25,7 @@
     "LIVE_MSG": {
       "description": "paste your alive message hear.",
       "required": false,
-      "value": "> CASEYRHODES-XMD IS ACTIVE AND ALIVE⚡"
+      "value": "> POPKID IS ACTIVE AND ALIVE⚡"
     },
     
     "PREFIX": {
